@@ -1,4 +1,4 @@
-package com.company;
+package cam.company;
 
 import java.util.Scanner;
 
